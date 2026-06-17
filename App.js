@@ -24,7 +24,6 @@ function App() {
         <Route path="/book" element={<BookService/>}/>
         <Route path="/track" element={<TrackService/>}/>
         <Route path="/vehicle-report" element={<VehicleReport/>}/>
-        <Route path="/guide" element={<guide/>}/>
         </Routes>
     </BrowserRouter>
   );
