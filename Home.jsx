@@ -93,6 +93,12 @@ function Home() {
             <p>Access full maintenance records anytime.</p>
           </div>
 
+                    <div className="feature-card">
+            <img src="https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2" />
+            <h3>Service History</h3>
+            <p>Access full maintenance records anytime.</p>
+          </div>
+
         </div>
       </section>
     </>
